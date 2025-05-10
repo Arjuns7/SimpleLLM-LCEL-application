@@ -9,3 +9,5 @@ langserve
 sse_starlette
 pydantic
 langchain_community
+langchain-chroma
+faiss-cpu
