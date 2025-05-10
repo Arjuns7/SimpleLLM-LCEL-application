@@ -8,3 +8,4 @@ uvicorn
 langserve
 sse_starlette
 pydantic
+langchain_community

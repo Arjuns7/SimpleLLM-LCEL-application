@@ -8,6 +8,7 @@ dependencies = [
     "fastapi>=0.115.12",
     "ipykernel>=6.29.5",
     "langchain>=0.3.25",
+    "langchain-community>=0.3.23",
     "langchain-core>=0.3.59",
     "langchain-groq>=0.3.2",
     "langserve>=0.3.1",
