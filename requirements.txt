@@ -3,3 +3,8 @@ langchain
 python-dotenv
 langchain_groq
 langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
+pydantic
